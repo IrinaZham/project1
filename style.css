@@ -1,0 +1,15 @@
+h1 {
+    font-size: 20px;
+    color:blue;
+
+}
+button{
+   color: blueviolet;
+   background-color: aqua;
+   border: 1px solid white
+   ;
+
+}
+a{
+    text-decoration: none;
+}
